@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-orchestration-airflow/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#60](https://github.com/googleapis/python-orchestration-airflow/issues/60)) ([8e05a90](https://github.com/googleapis/python-orchestration-airflow/commit/8e05a905ea8a5c760eeb65d15cea73da41eac4ab))
+
 ### [1.2.1](https://www.github.com/googleapis/python-orchestration-airflow/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
